@@ -1,11 +1,4 @@
-# Ignore all files
 *
-
-# Allow directories
 !*/
-
-# Allow C++ source files
 !*.cpp
-
-# Allow .gitignore itself
 !.gitignore
